@@ -6,6 +6,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Mobile Programming
+###- 🔭 I’m currently working on Mobile Programming
 - 🌱 I’m currently learning Dart
 - 📫 How to reach me: telegram: izelkayacik
