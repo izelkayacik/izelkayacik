@@ -17,7 +17,3 @@
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=izelkayacik&hide_title=true&hide_border=true&langs_count=5)
 
 <img alt="ViewCount" height="25" src="https://views.whatilearened.today/views/github/izelkayacik/izelkayacik.svg" />
-
-
-
-
