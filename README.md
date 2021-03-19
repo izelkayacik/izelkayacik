@@ -1,4 +1,7 @@
 ### Hi there, I'm Izel <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+<p align="center">
+        <img alt="ViewCount" src="https://views.whatilearened.today/views/github/izelkayacik/izelkayacik.svg" />
+</p>
 
 
 
@@ -17,7 +20,5 @@
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=izelkayacik&hide_title=true&hide_border=true&langs_count=5)
 
 
-<p align="center">
-        <img alt="ViewCount" src="https://views.whatilearened.today/views/github/izelkayacik/izelkayacik.svg" />
-</p>
+
 
