@@ -10,4 +10,4 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-izelkayacik.vercel.app/api/spotify-playing" alt="izelkayacik Spotify Playing" width="350" />](https://open.spotify.com/user/mzxzgpbbak3xh659fzllxl1iw?si=c4946f561f5d4b33)
+[<img src="https://now-playing-iztuka.vercel.app/api/spotify-playing" alt="izelkayacik Spotify Playing" width="350" />](https://open.spotify.com/user/mzxzgpbbak3xh659fzllxl1iw?si=c4946f561f5d4b33)
