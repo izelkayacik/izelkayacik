@@ -1,4 +1,4 @@
-### Hello, this is Izel Kayacık👋
+### Hi there, I'm Izel 👋
 
 
 
