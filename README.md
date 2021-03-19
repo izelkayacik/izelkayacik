@@ -14,4 +14,6 @@
 [<img src="https://now-playing-iztuka.vercel.app/api/spotify-playing" alt="izelkayacik Spotify Playing" width="350" />](https://open.spotify.com/user/mzxzgpbbak3xh659fzllxl1iw?si=c4946f561f5d4b33)
 
 
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=izelkayacik&hide_title=true&hide_border=true&langs_count=5)
+
 
