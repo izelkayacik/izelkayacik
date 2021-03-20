@@ -1,4 +1,4 @@
-### Hi there, I'm Izel <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### <I>Hi there, I'm Izel <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a><I>
 
 <I>"I have no specialtalent. I am only passionately curious." Einstein<I>
 
