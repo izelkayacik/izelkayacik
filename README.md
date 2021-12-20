@@ -11,7 +11,7 @@
   
 [![Linkedin Badge](https://img.shields.io/badge/-IzelKayacık-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/izelkayacik/)](https://www.linkedin.com/in/petrisorcraciun/) [![Instagram Badge](https://img.shields.io/badge/-@codingwithizztuka-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/codingwithizztuka/)](https://instagram.com/codingwithizztuka) 
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=izelkayacik&show_icons=true&theme=merco
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=izelkayacik&show_icons=true&theme=merco)
 
 ### Spotify Playing 🎧
 
