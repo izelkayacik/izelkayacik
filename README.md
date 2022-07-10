@@ -4,8 +4,8 @@
 
 
 
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Dart
+- 🔭 I’m currently working on Android 
+- 🌱 I’m currently learning Kotlin
 - 📫 How to reach me: https://t.me/izelkayacik
 
   
