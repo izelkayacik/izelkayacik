@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Android 
 - 🌱 I’m currently learning Kotlin
-- 📫 How to reach me: https://t.me/izelkayacik
+- 📫 How to reach me: izelkayacik@hotmail.com
 
   
 [![Linkedin Badge](https://img.shields.io/badge/-IzelKayacık-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/izelkayacik/)](https://www.linkedin.com/in/izelkayacik/) [![Instagram Badge](https://img.shields.io/badge/-@codingwithizztuka-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/codingwithizztuka/)](https://instagram.com/codingwithizztuka) 
